@@ -1,3 +1,5 @@
+import "/src/style.css"
+
 const TaskManager = (function () {
   let tasks = [];
 
